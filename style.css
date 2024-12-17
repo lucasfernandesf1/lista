@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(37, 130, 206, 0.491);
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+
+}
+ #taskInput{
+    width: 200px;
+    padding: 10px;
+}
+li{
+    justify-content: center;
+    display: flex ;
+    margin: 10px;
+}
+button{
+    padding: 10px 15px; 
+    margin-left: 10px;
+}
+li button{
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+ul{
+    list-style-type: none;
+    padding: 0%;
+ }           
+    
